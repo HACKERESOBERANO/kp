@@ -1,9 +1,9 @@
-git clone https://github.com/Darkziinh/darkbot3.0
+git clone https://github.com/markoswythor/markos-8
 
-cd darkbot3.0
+cd markos-8
 
 chmod +x badut.sh
 
 sh badut.sh
 
-senha: darkzin
+senha: amarelo
