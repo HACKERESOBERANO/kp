@@ -4,7 +4,7 @@ const limit = (prefix, botName, ownerName) => {
 
 ◪ *INFO*
   ❏ Prefix: 「  ${prefix}  」
-  ❏ Creator: DARK
+  ❏ Creator: MARKOS
   ❏ Version: 0.0.4
 ◪ *ABOUT*
   │
